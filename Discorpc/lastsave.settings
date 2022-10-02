@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Discorpc" GeneratedClassName="lastsave">
+  <Profiles />
+  <Settings>
+    <Setting Name="id" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1020722349152157766</Value>
+    </Setting>
+    <Setting Name="big_image" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hamzaless_rpc</Value>
+    </Setting>
+    <Setting Name="small_image" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hamzaless_rpc2</Value>
+    </Setting>
+    <Setting Name="state" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Discorpc</Value>
+    </Setting>
+    <Setting Name="details" Type="System.String" Scope="User">
+      <Value Profile="(Default)">By Hamzaless</Value>
+    </Setting>
+    <Setting Name="player_max" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="player_mini" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
