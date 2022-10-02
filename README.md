@@ -1,1 +1,1 @@
-<img link="https://github.com/Hamzaless/DiscorPC/blob/master/DiscorPC.png"></img>
+![alt text]("https://github.com/Hamzaless/DiscorPC/blob/master/DiscorPC.png")
